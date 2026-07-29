@@ -1,9 +1,9 @@
-package app.template.patches.etesty
+package app.morphe.patches.etesty
 
 import app.morphe.patcher.Fingerprint
 import app.morphe.patcher.extensions.InstructionExtensions.addInstructions
 import app.morphe.patcher.patch.bytecodePatch
-import app.template.patches.shared.Constants.COMPATIBILITY_ETESTY_AUTOSKOLA
+import app.morphe.patches.Constants.COMPATIBILITY_ETESTY_AUTOSKOLA
 import com.android.tools.smali.dexlib2.AccessFlags
 
 private const val LICENCE_CLASS = "Lcz/etesty/autoskola/api/Licence;"
