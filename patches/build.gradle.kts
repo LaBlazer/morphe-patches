@@ -7,8 +7,8 @@ patches {
         description = "Patches for apps I like"
         source = "git@github.com:LaBlazer/morphe-patches.git"
         author = "LaBlazer"
-        contact = "na"
-        website = "na"
+        contact = ""
+        website = "https://github.com/LaBlazer"
         license = "GPLv3"
     }
 }
